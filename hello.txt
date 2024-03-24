@@ -1,4 +1,9 @@
 nihouhello world
+<<<<<<< HEAD
 hello world 
 hello world master version
 hello world
+hello world
+hello world
+hello world hot-fix version
+they both in the txt
